@@ -1,0 +1,4 @@
+/* Contoh CSS: Mengubah semua teks editor menjadi merah */
+.monaco-editor .view-line {
+    color: red !important;
+}
