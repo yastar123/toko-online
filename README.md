@@ -6,7 +6,7 @@
 
 ## Tentang
 
-Selamat datang di proyek Toko Online (Setengah Jadi)! Ini adalah sebuah website toko online yang masih dalam tahap pengembangan. Meskipun belum responsif di semua perangkat dan masih memiliki penampilan yang sederhana, proyek ini dirancang untuk mengasah logika pemrograman Anda.
+Selamat datang di proyek Toko Online (Setengah Jadi)! Ini adalah sebuah website toko online yang masih dalam tahap pengembangan. Meskipun belum responsif di semua perangkat dan masih memiliki penampilan yang sederhana, proyek ini dirancang untuk mengasah logika pemrograman Saya.
 
 ## Fitur
 
